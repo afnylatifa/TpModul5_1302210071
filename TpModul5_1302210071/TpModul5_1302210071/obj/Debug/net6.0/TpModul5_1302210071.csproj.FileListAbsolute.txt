@@ -1,0 +1,15 @@
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\bin\Debug\net6.0\TpModul5_1302210071.exe
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\bin\Debug\net6.0\TpModul5_1302210071.deps.json
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\bin\Debug\net6.0\TpModul5_1302210071.runtimeconfig.json
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\bin\Debug\net6.0\TpModul5_1302210071.dll
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\bin\Debug\net6.0\TpModul5_1302210071.pdb
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\TpModul5_1302210071.csproj.AssemblyReference.cache
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\TpModul5_1302210071.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\TpModul5_1302210071.AssemblyInfoInputs.cache
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\TpModul5_1302210071.AssemblyInfo.cs
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\TpModul5_1302210071.csproj.CoreCompileInputs.cache
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\TpModul5_1302210071.dll
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\refint\TpModul5_1302210071.dll
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\TpModul5_1302210071.pdb
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\TpModul5_1302210071.genruntimeconfig.cache
+D:\semester 4\Konstruksi Perangkat Lunak\TP\Modul 5\TpModul5_1302210071\TpModul5_1302210071\TpModul5_1302210071\obj\Debug\net6.0\ref\TpModul5_1302210071.dll
